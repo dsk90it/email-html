@@ -16,5 +16,7 @@ HTML, CSS [emailframe.work](https://emailframe.work/)
 **STEP 3 :** Run `npm run dev-server` to start server 
 
 ## Demo
+https://pytcafe.netlify.com/
 
 ## Deployed in Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a3989ce-37ec-47b7-a438-9c48c106656f/deploy-status)](https://app.netlify.com/sites/pytcafe/deploys)
