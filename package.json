@@ -1,0 +1,23 @@
+{
+  "name": "email-html",
+  "version": "1.0.0",
+  "description": "Responsive Newsletter HTML. Works perfectly on all Email Clients. Tested in Email on Acid tool",
+  "main": "index.js",
+  "scripts": {
+    "dev-server": "live-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsk90it/email-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsk90it/email-html/issues"
+  },
+  "homepage": "https://github.com/dsk90it/email-html#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
