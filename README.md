@@ -9,7 +9,7 @@ HTML, CSS [emailframe.work](https://emailframe.work/)
 2. [live-server](https://www.npmjs.com/package/live-server)
 
 ## How to Run?
-**STEP 1 :** git clone `this repo url`
+**STEP 1 :** git clone `https://github.com/dsk90it/email-html.git`
 
 **STEP 2 :** Open your terminal and switch to cloned folder and run`npm install`
 
