@@ -1,5 +1,5 @@
 ## Newsletter HTML
-Responsive Newsletter HTML. Works perfectly on all Email Clients. Tested on Email on Acid tool
+Responsive Newsletter HTML. Works perfectly on all Email Clients. Tested in Email on Acid tool
 
 ## Tech Stack
 HTML, CSS [emailframe.work](https://emailframe.work/)
