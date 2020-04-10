@@ -17,6 +17,4 @@ HTML, CSS [emailframe.work](https://emailframe.work/)
 
 ## Demo
 
-## Emain On Acid Test Results
-
 ## Deployed in Netlify
