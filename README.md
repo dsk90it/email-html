@@ -2,11 +2,13 @@
 Responsive Newsletter HTML. Works perfectly on all Email Clients. Tested in Email on Acid tool
 
 ## Tech Stack
-HTML, CSS, [emailframe.work](https://emailframe.work/)
+- HTML
+- CSS
+- [emailframe.work](https://emailframe.work/)
 
 ## Tools Used
-1. [Email on Acid](https://www.emailonacid.com/email-testing/)
-2. [live-server](https://www.npmjs.com/package/live-server)
+- [Email on Acid](https://www.emailonacid.com/email-testing/)
+- [live-server](https://www.npmjs.com/package/live-server)
 
 ## How to run?
 **Step 1 :** `git clone https://github.com/dsk90it/email-html.git`
